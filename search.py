@@ -50,6 +50,7 @@ class SearchProblem:
         state, 'action' is the action required to get there, and 'stepCost' is
         the incremental cost of expanding to that successor.
         """
+        a=1+1
         util.raiseNotDefined()
 
     def getCostOfActions(self, actions):
